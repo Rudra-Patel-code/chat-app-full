@@ -78,5 +78,6 @@ export const initializeSocket = (io) => {
 
 export const emitSocketEvent = (req, roomId, payload, event) => {
   console.log("room id:" + roomId);
+  console.log("event emitted");
   req.app.get("io").in(roomId).emit(event, payload);
 };

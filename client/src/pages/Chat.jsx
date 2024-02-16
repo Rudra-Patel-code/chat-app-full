@@ -241,6 +241,7 @@ const Chat = () => {
   };
 
   const onNewChat = ({ payload }) => {
+    console.log("new chat");
     setChats((prev) => [payload, ...prev]);
   };
 
