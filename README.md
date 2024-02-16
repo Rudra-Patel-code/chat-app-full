@@ -5,7 +5,7 @@ Welcome to the detailed documentation for the MERN Stack Chat App. This app util
 ## Technologies Used
 
 - **Frontend**:
-  - React.js (with Typescript): A JavaScript library for building user interfaces.
+  - React.js: A JavaScript library for building user interfaces.
   - Tailwind CSS: A utility-first CSS framework.
   - Context API: For managing global state within React components.
 - **Backend**:
