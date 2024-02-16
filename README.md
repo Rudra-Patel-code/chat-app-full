@@ -1,6 +1,6 @@
 # MERN Stack Chat App
 
-Welcome to the detailed documentation for the MERN Stack Chat App. This app utilizes the MERN (MongoDB, Express.js, React.js, Node.js) stack along with additional technologies to create a real-time chat application. Below you'll find information on the technologies used, features implemented, and instructions on how to run and utilize the application.
+Welcome to the detailed documentation for the MERN Stack Chat App. This app utilizes the MERN (MongoDB, Express.js, React.js, Node.js) stack along with additional technologies to create a real-time chat application. Below you'll find information on the technologies used, features implemented.
 
 ## Technologies Used
 
