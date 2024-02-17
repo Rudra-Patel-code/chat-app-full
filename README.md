@@ -1,4 +1,4 @@
-# MERN Stack Chat App
+# MERN Stack Chat App [click here]("https://ichat-teal.vercel.app") to see live app.
 
 Welcome to the detailed documentation for the MERN Stack Chat App. This app utilizes the MERN (MongoDB, Express.js, React.js, Node.js) stack along with additional technologies to create a real-time chat application. Below you'll find information on the technologies used, features implemented.
 
